@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="575.70081"
+   height="512"
+   viewBox="0 0 152.32156 135.4663"
+   version="1.1"
+   id="svg2559"
+   inkscape:version="1.1 (ce6663b3b7, 2021-05-25)"
+   sodipodi:docname="shopping-cart-solid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2561"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.67081229"
+     inkscape:cx="190.06807"
+     inkscape:cy="298.89136"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2556" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="currentColor"
+       d="m 139.73174,79.723985 12.50765,-55.03333 c 0.90302,-3.97351 -2.1172,-7.757322 -6.19205,-7.757322 H 42.123783 L 39.698612,5.077354 C 39.094304,2.122223 36.493979,0 33.477465,0 H 6.35 C 2.842948,0 0,2.842948 0,6.35 v 4.233333 c 0,3.507052 2.842948,6.35 6.35,6.35 h 18.489877 l 18.58645,90.867187 c -4.446587,2.5572 -7.442994,7.35198 -7.442994,12.84949 0,8.18303 6.633634,14.81666 14.816667,14.81666 8.183033,0 14.816667,-6.63363 14.816667,-14.81666 0,-4.14709 -1.705769,-7.89385 -4.45135,-10.58334 h 55.469093 c -2.74532,2.68949 -4.45109,6.43625 -4.45109,10.58334 0,8.18302 6.63364,14.81666 14.81667,14.81666 8.18303,0 14.81667,-6.63363 14.81667,-14.81666 0,-5.86634 -3.40995,-10.93577 -8.35528,-13.33632 l 1.45971,-6.42304 c 0.90302,-3.973515 -2.1172,-7.757315 -6.19205,-7.757315 H 57.710123 l -1.731698,-8.46667 H 133.5397 c 2.96492,0 5.53508,-2.05158 6.19204,-4.94268 z"
+       id="path2650"
+       style="stroke-width:0.264583;fill:#d8dee9;fill-opacity:1" />
+  </g>
+</svg>
